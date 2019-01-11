@@ -76,7 +76,7 @@ public class StudentApp {
 			
 		}
 		public String toString(){
-			retunr null;
+			return null;
 		}
 		public void showCourses(){
 			
